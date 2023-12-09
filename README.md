@@ -19,6 +19,6 @@ How this was generated?
 
 - write in text editor and write the codes below
 
-'git add .
+`git add .
 git commit
-git push'
+git push`
