@@ -1,24 +1,18 @@
 # DSI
 
-## Some random words
+## This is where I keep my assignments for Data Science class.
 
-### More random words
-
-
-
-**Blah Blah Blah**
-*blah*
-~~Not Blah~~
-
-**Example of *blah* **
-
-***Blah***
+### I will keep this updated
 
 
-How this was generated?
 
-- write in text editor and write the codes below
+**README shuold be enhanced**
 
-`git add .
-git commit
-git push`
+
+**To Do List**
+
+- *organize*
+- *be creative*
+
+
+
